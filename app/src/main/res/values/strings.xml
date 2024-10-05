@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">F1 Team 2024</string>
+    <string name="car_name">Nama Tim</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="back_button">Kembali</string>
+    <string name="user_name">Muhammad Farhan Nugroho</string>
+    <string name="user_email">muhammadfarhannugroho@mail.ugm.ac.id</string>
+
+    <string-array name="data_name">
+        <item>Alfa Romeo</item>
+        <item>Alpha Tauri</item>
+        <item>Alpine</item>
+        <item>Aston Martin</item>
+        <item>Ferrari</item>
+        <item>Haas</item>
+        <item>Mclaren</item>
+        <item>Mercedes</item>
+        <item>Red Bull</item>
+        <item>Williams</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Alfa Romeo F1 Team Stake, sebelumnya dikenal sebagai Sauber, adalah tim Formula 1 yang berbasis di Hinwil, Swiss. Didirikan oleh Peter Sauber, tim ini telah berkompetisi di F1 sejak 1993. Pada 2019, tim mengadopsi nama Alfa Romeo sebagai bagian dari kemitraan dengan produsen mobil Italia tersebut. Meskipun memiliki sejarah panjang, Alfa Romeo sering bersaing di tengah grid, dengan fokus pada pengembangan pembalap muda.</item>
+        <item>Scuderia AlphaTauri, sebelumnya dikenal sebagai Toro Rosso, adalah tim Formula 1 yang berbasis di Faenza, Italia. Didirikan pada 2006 setelah Red Bull mengakuisisi tim Minardi, AlphaTauri berfungsi sebagai tim junior untuk Red Bull Racing. Tim ini terkenal karena mengembangkan bakat muda, dengan pembalap seperti Sebastian Vettel dan Max Verstappen memulai karir F1 mereka di sini sebelum pindah ke tim utama Red Bull.</item>
+        <item>Alpine F1 Team adalah tim Formula 1 yang mewakili produsen mobil Prancis Renault Group di bawah merek Alpine mereka. Berbasis di Enstone, Inggris, tim ini memiliki sejarah panjang di F1, sebelumnya berkompetisi sebagai Toleman, Benetton, dan Renault. Alpine debut pada musim 2021, menggantikan tim Renault F1. Dengan warisan balap yang kaya, tim ini bertujuan untuk bersaing di bagian atas grid, mengandalkan inovasi teknologi dan bakat pembalap.</item>
+        <item>Aston Martin Aramco Cognizant F1 Team adalah tim Formula 1 yang berbasis di Silverstone, Inggris. Tim ini memiliki sejarah yang kompleks, berawal sebagai Jordan Grand Prix pada 1991, kemudian berubah menjadi Midland, Spyker, Force India, dan Racing Point sebelum menjadi Aston Martin pada 2021. Dengan dukungan kuat dari pemilik Lawrence Stroll dan kemitraan dengan Aston Martin, tim ini bertujuan untuk menjadi kontestan papan atas dalam beberapa tahun ke depan.</item>
+        <item>Scuderia Ferrari adalah tim Formula 1 paling sukses dan tertua yang masih aktif berkompetisi. Didirikan oleh Enzo Ferrari, tim ini telah menjadi bagian integral dari F1 sejak musim perdana pada 1950. Berbasis di Maranello, Italia, Ferrari telah memenangkan 16 gelar konstruktor dan 15 gelar pembalap. Dengan fanbase global yang besar dan status ikonik dalam olahraga balap, Ferrari selalu menjadi salah satu tim teratas dan paling berpengaruh di grid.</item>
+        <item>MoneyGram Haas F1 Team adalah tim Formula 1 Amerika yang berbasis di Kannapolis, North Carolina, dengan fasilitas tambahan di Banbury, Inggris. Didirikan oleh industrialis Gene Haas, tim ini debut di F1 pada 2016. Sebagai tim termuda di grid, Haas mengadopsi model bisnis unik dengan menjalin kemitraan teknis erat dengan Ferrari. Meskipun menghadapi tantangan, tim ini telah menunjukkan potensi untuk bersaing di midfield ketika kondisi memungkinkan.</item>
+        <item>McLaren Racing Limited adalah salah satu tim Formula 1 paling sukses dan ikonik. Didirikan oleh Bruce McLaren pada 1963, tim yang berbasis di Woking, Inggris ini telah memenangkan 8 gelar konstruktor dan 12 gelar pembalap. McLaren terkenal karena inovasi teknologinya dan telah menjadi rumah bagi beberapa pembalap terhebat dalam sejarah, termasuk Ayrton Senna dan Lewis Hamilton. Setelah periode sulit, tim ini kembali bersaing di bagian depan grid dalam beberapa tahun terakhir.</item>
+        <item>Mercedes-AMG Petronas Formula One Team adalah tim Formula 1 yang berbasis di Brackley, Inggris. Meskipun Mercedes memiliki sejarah panjang di balap mobil, tim modern ini berawal dari Brawn GP yang diakuisisi oleh Mercedes pada 2010. Sejak era mesin turbo-hybrid dimulai pada 2014, Mercedes telah mendominasi sport ini, memenangkan delapan gelar konstruktor berturut-turut dari 2014 hingga 2021. Tim ini terkenal karena keunggulan teknis dan manajemen yang sangat efektif.</item>
+        <item>Oracle Red Bull Racing, umumnya dikenal sebagai Red Bull Racing, adalah tim Formula 1 yang berbasis di Milton Keynes, Inggris. Didirikan pada 2005 setelah Red Bull mengakuisisi tim Jaguar Racing, tim ini dengan cepat naik ke puncak F1. Di bawah kepemimpinan Christian Horner dan jenius desain Adrian Newey, Red Bull memenangkan empat gelar ganda berturut-turut dari 2010 hingga 2013 dengan Sebastian Vettel, dan kembali ke puncak dengan Max Verstappen pada 2021 dan 2022. Tim ini terkenal karena strategi agresif dan pengembangan mobil yang inovatif.</item>
+        <item>Williams Racing adalah salah satu tim Formula 1 paling ikonik dan sukses. Didirikan oleh Sir Frank Williams dan Patrick Head pada 1977, tim yang berbasis di Grove, Inggris ini telah memenangkan 9 gelar konstruktor dan 7 gelar pembalap. Williams memiliki reputasi sebagai tim independen yang kuat dengan fokus pada inovasi teknis. Meskipun mengalami periode sulit dalam beberapa tahun terakhir, akuisisi oleh Dorilton Capital pada 2020 memberikan harapan baru untuk kebangkitan tim legendaris ini.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/romeo</item>
+        <item>@drawable/alpha</item>
+        <item>@drawable/alpine</item>
+        <item>@drawable/aston</item>
+        <item>@drawable/ferrari</item>
+        <item>@drawable/haas</item>
+        <item>@drawable/mclaren</item>
+        <item>@drawable/mercedes</item>
+        <item>@drawable/redbull</item>
+        <item>@drawable/williams</item>
+        <item>@drawable/selfphoto</item>
+    </integer-array>
+</resources>
